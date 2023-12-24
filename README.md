@@ -11,7 +11,7 @@ To write a program to find the solution of a matrix using Gaussian Elimination.
 1. Get the matrix from user.
 2. Using "from numpy as np sys" to import numpy (Ge).
 3. Print the result matrices (Gaussian Elimination).
-4.End the program. 
+4.End the program.  
 
 ## Program:
 ```
